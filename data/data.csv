@@ -1,0 +1,6 @@
+id,model,cuota,dni,recibo,num_cuotas
+1,HondaWave,2023,150000,no,si,20
+2,YamahaFZ,2023,180000,no,si,18
+3,SuzukiGN125,2023,160000,si,si,24
+4,KawasakiZ400,2023,200000,no,si,12
+5,BajajPulsarNS200,2023,170000,no,si,15
